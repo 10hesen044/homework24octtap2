@@ -1,0 +1,13 @@
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.exe
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.deps.json
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.runtimeconfig.json
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.runtimeconfig.dev.json
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.dll
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\bin\Debug\netcoreapp3.1\homework24oct.pdb
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.csprojAssemblyReference.cache
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.AssemblyInfoInputs.cache
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.AssemblyInfo.cs
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.dll
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.pdb
+C:\Users\Hesen\Desktop\CODE ACADEMY V.S\homework24oct\homework24oct\obj\Debug\netcoreapp3.1\homework24oct.genruntimeconfig.cache
